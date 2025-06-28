@@ -11,8 +11,8 @@
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (custom styling)
-- JavaScript (vanilla)
+- CSS3 
+- JavaScript
 
 ## 🌐 Live Demo
 
