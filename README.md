@@ -19,3 +19,5 @@
 [Try the MERSUAH Calculator](https://calculator-eight-kohl-53.vercel.app/)
 
 ## 📸 Preview
+
+![MERSUAH Calculator](screenshot/1.jpg)
